@@ -19,7 +19,4 @@ Contact:
 <br>
 <br>
 
-[![Thiago stats](https://github-readme-stats.vercel.app/api?username=ThiagoSantos7)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSantos7)](https://github.com/anuraghazra/github-readme-stats)
+[![Thiago stats](https://github-readme-stats.vercel.app/api?username=ThiagoSantos7)](https://github.com/anuraghazra/github-readme-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSantos7)](https://github.com/anuraghazra/github-readme-stats)
